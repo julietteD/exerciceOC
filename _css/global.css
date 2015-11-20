@@ -1,0 +1,7 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+*{ margin:0; padding:0; border:none; }
+body{ font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif; font-size:12px; color:#3C3C3C;  }
+.wrapper{ margin:0 auto; width:1000px;  }
